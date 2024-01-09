@@ -2,7 +2,7 @@
 
 An implementation of boids/flocking for GameObjects.
 
-#Sample - Space Travel
+# Sample - Space Travel
 
 A sample demoing how to use the Job System + Burst Compiler with traditional
 GameObjects.
