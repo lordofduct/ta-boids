@@ -1,6 +1,10 @@
 # ta-boids
 
-A repository demoing how to use the Job System + Burst Compiler with traditional
+An implementation of boids/flocking for GameObjects.
+
+#Sample - Space Travel
+
+A sample demoing how to use the Job System + Burst Compiler with traditional
 GameObjects.
 
 ## Scenes
@@ -26,3 +30,4 @@ explain the content and how this is set up.
 
 ## Notes
 Feel free to use this content if you would like to use it in your projects.
+(note - per the original author: https://github.com/ThousandAnt/ta-boids)
